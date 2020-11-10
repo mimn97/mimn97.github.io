@@ -92,6 +92,7 @@ CSCI 102: Multimedia Computing
 
 I enjoy cooking Korean foods, and I like cooking for someone who are not familiar with Korean foods. 
 
+> This is my favorite Korean food called "TTEOKBOKKI" (I love it and I am happy to cook for you!) 
 ![My favorite Korean food "Tteokbokki"](./images/cook.JPG){: width="100" height="100"}
 
 Besides cooking, I usually watch classic western movies or listening to classical musics. (What a so "classic" girl I am!) 
