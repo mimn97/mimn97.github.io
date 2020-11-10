@@ -19,7 +19,7 @@ main:
     url: /projects/
         
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/ # year_archive
     
   #- title: "CV"
   #  url: /cv/
