@@ -37,7 +37,7 @@ The College of Wooster, OH USA (Expected degree: May 2021)
 ## Research 
 
 ### Senior Independent Study Thesis, Aug. 2020 - 
-- [https://www.wooster.edu/academics/research/is/](I.S.) project: undergraduate research program required for all seniors from The College of Wooster, consisting of thesis submission, oral dissertation, and public paper presentation at the college’s annual I.S. symposium planned on April 2021
+- [I.S.](https://www.wooster.edu/academics/research/is/) project: undergraduate research program required for all seniors from The College of Wooster, consisting of thesis submission, oral dissertation, and public paper presentation at the college’s annual I.S. symposium planned on April 2021
 - A current research about developing a framework that detects the US adults' depressive disorders from the demography and health records, by a usage of statistical learning methods and machine learning techniques
 - Currently Investigate the following three learning methods - logistic regression, decision trees, and support vector machines - to conduct pattern classification of patients with depressive disorders in 2018
 
@@ -49,7 +49,7 @@ The College of Wooster, OH USA (Expected degree: May 2021)
 ### Sophomore Research Assistant
 
 #### Department of Mathematics, Sep 2019 - Jan 2020
-- [https://www.wooster.edu/academics/research/sophomore/](S.R.A) of The College of Wooster, intended for sophomores and juniors to provide opportunities of working as paid research assistants to Wooster faculty members 
+- [Sophomore research program](https://www.wooster.edu/academics/research/sophomore/) of The College of Wooster, intended for sophomores and juniors to provide opportunities of working as paid research assistants to Wooster faculty members 
 - Assisted Dr. Robert Kelvey's research on simulation of a game that can be played on graphs and hypercubes
   - Involves two players tracing out a path on a graph without backtracking or making any loops other than one leading back to the start
 - Devised a Python class that builds any kind of graphs in three-dimensional spaces, formulated an efficient searching algorithm for all winning paths for each player, and designed frameworks of the game
