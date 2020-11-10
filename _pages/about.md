@@ -88,3 +88,9 @@ CSCI 102: Multimedia Computing
 - Native in **Korean** and Fluent in **English**
 
 
+## Besides academic stuffs...
+
+I enjoy cooking Korean foods, and I like cooking for someone who are not familiar with Korean foods. 
+Besides cooking, I usually watch classic western movies or listening to classical musics. (What a so "classic" girl I am!) 
+
+
