@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi Folks! I am a senior student in The College of Wooster, OH. I am double-majoring in computer science and mathematics and minoring in statistics and data science. 
-I love computational approaches to medicine areas, particularly psychiatry or mental healthcare fields. With various research and academic projects at my undergraduate institution, I have obtained several skills and techniques for machine learning and statistical modeling. Now, I would like to extend my research interest to deeper areas - Deep learning and Natural language processing. 
+Hi Folks! I am a senior student in The College of Wooster, OH. 
+I am double-majoring in computer science and mathematics and minoring in statistics and data science. 
+I love computational approaches to medicine areas, particularly psychiatry or mental healthcare fields. 
+With various research and academic projects at my undergraduate institution, I have obtained several skills and techniques for machine learning and statistical modeling. Now, I would like to extend my research interest to deeper areas - Deep learning and Natural language processing. 
 
 A data-driven personal website
 ======
