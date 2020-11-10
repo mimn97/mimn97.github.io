@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi Folks! I am a senior student in The College of Wooster, OH. I am double-majoring in computer science and mathematics and minoring in statistics and data science. 
+Hi Folks! I am a senior student in The College of Wooster, OH. 
 I love computational approaches to medicine areas, particularly psychiatry or mental healthcare fields. With participating in various research and academic projects at my undergraduate institution, I have obtained several skills and techniques for machine learning and statistical modeling. Now, I would like to extend my research interest to deeper areas - Deep learning and Natural language processing.
 
 
@@ -23,30 +23,68 @@ I'm broadly interested in Artifiical intelligence (AI) applications:
 - (Hope to learn) Text Mining, Information Extraction, and Natural Language Processing
 
 
-## My Schedule
+## Education
 
-You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles). The "Week" view will present you the details of slots.
+The College of Wooster, OH USA (Expected degree: May 2021)
+- Major: Computer Science (3.9/4.0), Mathematics (3.78/4.0)
+- Minor: Statistical & Data Sciences
+- **Honor and Awards**
+  - Wooster International Scholarship (All years)
+  - Dean's List
+  - Pi Mu Epsilon (U.S. national mathematics honor society) 
+  
 
-## Cooking from Computer Science Perspective
+## Research 
 
-I have decided to be a Youtuber, sharing my cooking secrets, because COVID-19 makes many of my students have to cook at home by themselves in first time.
+### Senior Independent Study Thesis, Aug. 2020 - 
+- [https://www.wooster.edu/academics/research/is/][(I.S.)] project: undergraduate research program required for all seniors from The College of Wooster, consisting of thesis submission, oral dissertation, and public paper presentation at the college’s annual I.S. symposium planned on April 2021
+- A current research about developing a framework that detects the US adults' depressive disorders from the demography and health records, by a usage of statistical learning methods and machine learning techniques
+- Currently Investigate the following three learning methods - logistic regression, decision trees, and support vector machines - to conduct pattern classification of patients with depressive disorders in 2018
 
-Cooking is one of my hobbies and it is a great relax to me. From the computer science perspective, I can see many related concepts and problems: (1) parallelization, (2) hyper-parameter tuning, (3) scheduling, etc. In my humble opinion, cooking, to some extent, should be easier than making complicated deep learning models effective in experiments. Throughout my 5-year PhD study at UIUC, I have summarized some tricks to prepare two delicious entrees in 30 mins. Here is my [Youtube Channel](https://www.youtube.com/channel/UCxPhuvmfd_AeBqGX8XaiZDg). Since my cooking secrets are mostly about Chinese food, so the videos are in Chinese. If you like it, don't forget to subscribe it!
+### Junior Independent Study Project, Jan 2020 - May 2020
+- A semester-long research project required for all juniors majoring in Computer Science to choose a topic of interest, write a research paper, and give short presentation at the course CSCI 200 Algorithm Analysis
+- Examined a case study of the application of FNN and MLP with backpropagation to solving real-world problems
+- Classification of the high risk of suicide committal of Korean adolescents in 2019 (Accuracy: 87%)
+
+### Sophomore Research Assistant
+
+#### Department of Mathematics, Sep 2019 - Jan 2020
+- [https://www.wooster.edu/academics/research/sophomore/}]{(S.R.A)} of The College of Wooster, intended for sophomores and juniors to provide opportunities of working as paid research assistants to Wooster faculty members 
+- Assisted Dr. Robert Kelvey's research on simulation of a game that can be played on graphs and hypercubes
+  - Involves two players tracing out a path on a graph without backtracking or making any loops other than one leading back to the start
+- Devised a Python class that builds any kind of graphs in three-dimensional spaces, formulated an efficient searching algorithm for all winning paths for each player, and designed frameworks of the game
+
+#### Department of Computer Science, Sep 2018 - Dec 2018
+- Assisted Dr. Hyokyeong Lee on a research about genomics and transcriptomics data of non-responders of ER+ breast cancer to hormone therapy
+- Worked on data cleaning and integration using R programming
 
 
-## Prospective Students
+## Teaching Experience
 
-I'm actively recruiting students who are excited about doing fun research. My lab has openings for PhD students and research internship opportunities for master/undergrad students (UCSD or external). Please check the following items before sending me an email.
+### Teaching Assistant
 
-- **Applicants for UCSD PhD Program**: Please make sure that you have applied online and select my name as one of the faculty members that you wish to work with.
-- **Research Internship Opportunities**:
-    * **If you are currently at UCSD**: I only take students who (1) have a clear research problem/objective and some initial ideas; (2) have relevant research experiences or have strong background in math/stats/physics; and (3) could devote enough time on research. Please highlight these in your email including a time plan.
-    * **If you are not at UCSD** (e.g., Summer Internship): Visitors are mostly recommended by my collaborators and have their own funding support. The minimum duration of stay at UCSD is 12 weeks (preferably 6 months - 1 year). Please indicate the time range in your email.
+CSCI 102: Multimedia Computing
+- Covered basic Python programming with a focus on GUI development in multimedia computing, particularly image processing and video editing using PyQt4 packages in Python
+- Ran class for over 30 students three times a week, had office hours every week, answered questions in person and via email, and helped students complete weekly assignments and final project
 
-**In your email**, please include the following items:
-- Title as "Prospective Student: YourName - YourAffliation"
-- Briefly introduce what research problem that you are interested in. What are the current state-of-the-art solutions and why do you think you can further improve over them?
-- Briefly introduce yourself, including education background, research experiences, and programming skills.
-- Briefly explain your motivations and expectations of working with me.
-- Include a PDF version of your CV.
+### Course Grader
+
+- Graded weekly assignments and small projects and managed the records of students' scores in MS Excel
+- Helped students acquire appropriate definitions and usage of class materials by commenting advice on their submitted assignments
+
+  - MATH 102 Introduction to Statistics (Spring 2020): Basic concepts of statistics
+  - CSCI 100 Scientific Computing (Fall 2019): Basic concepts of Python programming with concentration on enhancing problem-solving skills, in particular arrays, lists, and dictionary objects
+  - MATH 107/108 Calculus with Algebra A/B (Fall 2018 - Spring 2019): Pre-calculus with Algebra
+  
+
+## Skills
+
+### Technology
+- Advanced: C, Python (Pandas, Scikit-learn, Numpy), R, C++, SQLite3, LaTeX
+- Intermediate: Java, HTML, CSS, JavaScript 
+- Novice: Node.js
+
+### Language
+- Native in **Korean** and Fluent in **English**
+
 
