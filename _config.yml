@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minhwa Lee"
+title                    : "Minhwa "Mina" Lee"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Minhwa Lee"
 description              : &description "Undergraduate at The College of Wooster"
 url                      : https://mimn97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
