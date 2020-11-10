@@ -92,7 +92,7 @@ CSCI 102: Multimedia Computing
 
 I enjoy cooking Korean foods, and I like cooking for someone who are not familiar with Korean foods. 
 
-![My favorite Korean food "Tteokbokki"](./images/cook.JPG)
+![My favorite Korean food "Tteokbokki"](./images/cook.JPG){: width="100" height="100"}
 
 Besides cooking, I usually watch classic western movies or listening to classical musics. (What a so "classic" girl I am!) 
 I served one Korean church in Akron, OH to volunteer as pianist and conduct a choir of the church from 2017 to 2020. (Due to Covid19, I came back to and am currently in South Korea.)
