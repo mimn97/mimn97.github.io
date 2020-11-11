@@ -1,4 +1,3 @@
-
 ---
 title: 'Project 1'
 collection: projects
