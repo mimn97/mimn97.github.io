@@ -13,10 +13,10 @@ main:
   #  url: /portfolio/
   
   - title: "Research"
-    url: /teaching/
+    url: /research/
   
   - title: "Projects"
-    url: /teaching/
+    url: /projects/
         
   - title: "Posts"
     url: /year-archive/ # year_archive
