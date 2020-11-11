@@ -2,7 +2,7 @@
 title: "Senior Independent Study Thesis"
 collection: research
 type: "Undergraduate"
-permalink: /research/senior-is/
+permalink: /research/senior-is
 venue: "Department of Mathematical & Computational Sciences, The College of Wooster"
 date: 2020-08-28
 location: "Wooster, OH"
