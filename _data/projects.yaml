@@ -1,7 +1,7 @@
 projects:
   - title: "NLP for Social Good"
-    subtitle: "Public health applications of modern NLP"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    subtitle: "Public health applications of modern NLP (Ongoing)"
+    thumbnail: "assets/projects/nlp_for_social_good/SDOH_model.gif"
     url: "projects/nlp_for_social_good.html"
     selected: y
 
