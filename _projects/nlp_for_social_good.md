@@ -4,7 +4,7 @@ title: NLP for Social Good
 subtitle: Public health applications of modern NLP
 ---
 
-# Background
+### Background
 
 Most of my recent work focuses on examining **social (and behavioral) determinants of health (SBDH)**, the environmental and behavioral conditions that impact health outcomes of individuals. Examples of SBDH are as follows: 
 
