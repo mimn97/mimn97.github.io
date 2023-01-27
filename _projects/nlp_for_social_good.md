@@ -20,9 +20,9 @@ To address this problem, I have conducted initial work using NLP approaches at U
 
 Here are main projects related to the topic: 
 
-(1) ["Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"](/_projects/nlp_for_social_good_clinical.md) (Preprint, 2022)
+(1) ["Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"](/projects/nlp_for_social_good_clinical.md) (Preprint, 2022)
 
-(2) [Towards developing NLP tools for extracting SBDH from Twitter](/_projects/nlp_for_social_good_twitter.md) (Ongoing project)
+(2) [Towards developing NLP tools for extracting SBDH from Twitter](/projects/nlp_for_social_good_twitter.md) (Ongoing project)
 
 
 
