@@ -13,36 +13,36 @@ projects:
 
   - title: "Machine Learning Models for Depressive Disorders"
     subtitle: "Undergraduate Honors Thesis (2021)"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    thumbnail: "assets/projects/wooster_is/thumbnail.png"
+    url: "projects/wooster_is.html"
     selected: y
 
   - title: "Visual Sense Disambiguation Task"
     subtitle: "SemEval 2023 Task 1 Challenge"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    thumbnail: "assets/projects/vwsd/thumbnail.png"
+    url: "projects/vwsd.html"
     selected: n
 
   - title: "Sequential Sentence Classification for Longer Documents"
     subtitle: "Research with Bloomberg LP"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    thumbnail: "assets/projects/ssc/thumbnail.png"
+    url: "projects/ssc.html"
     selected: n
 
   - title: "Gender and Power Dynamics in Latin Narratives"
     subtitle: "Responsible AI Course Project (Fall 22)"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    thumbnail: "assets/projects/gender/thumbnail.png"
+    url: "projects/gender.html"
     selected: n
 
   - title: "Image Captioning with BERT"
     subtitle: "Neural Networks Course Project (Fall 21)"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    thumbnail: "assets/projects/nn_682/thumbnail.png"
+    url: "projects/nn_682.html"
     selected: n
 
-  - title: "Developing a Medical QA chatbot"
+  - title: "Developing a COVID-19 chatbot"
     subtitle: "Advanced NLP Course Project (Fall 21)"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    thumbnail: "assets/projects/nlp_685/thumbnail.png"
+    url: "projects/nlp_685.html"
     selected: n
