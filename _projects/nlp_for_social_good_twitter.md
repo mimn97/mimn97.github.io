@@ -3,16 +3,17 @@ layout: project
 title: Towards developing NLP tools for extracting SBDH from Twitter 
 ---
 
-
-# Why SBDH on Twitter? 
+## Why SBDH on Twitter? 
 
 - Openly available data, thus a good resource for public health surveillance. 
 - Several previous literature on applying NLP to health-related tweets. However, there is little prior work on identifying SBDH from general tweets. 
 
+---------------------------
 
-# Current Procedures (updating)
+## Current Procedures (updating)
 
-## (from the last work...)
+**from the last work...**
+
 - Collected 100K English-written tweets that were created within the U.S. (geo-tagged tweets), using Twarc2 API. 
 
 - Selected SBDH-related keywords (curated by experts) to be used in the search query of Twarc2 API. 
@@ -28,8 +29,8 @@ Evaluated the models’ performance by manually annotating the models’ results
 
 ----------
 
-## (new approach..)
-- Collecting COVID-19
+**ongoing..**
+- Collecting tweets that mentioned SBDH keywords from a large-scale COVID-19 dataset 'TBCOV'. 
 
 - Set up Amazon MTurk for filtering SBDH-related tweets, provided with the detailed annotation guideline.
 

@@ -7,8 +7,8 @@ projects:
 
   - title: "Data Science for Public Health"
     subtitle: "Food Insecurity in the U.S."
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+    thumbnail: "assets/projects/food_pantry/thumbnail.png"
+    url: "projects/food_pantry.html"
     selected: y
 
   - title: "Machine Learning Models for Depressive Disorders"

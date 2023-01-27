@@ -4,8 +4,6 @@ title: NLP for Social Good
 subtitle: Public health applications of modern NLP
 ---
 
-### Background
-
 Most of my recent work focuses on examining **social (and behavioral) determinants of health (SBDH)**, the environmental and behavioral conditions that impact health outcomes of individuals. Examples of SBDH are as follows: 
 
 - socio-economic status
@@ -23,8 +21,6 @@ Here are main projects related to the topic:
 (1) ["Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"](/projects/nlp_for_social_good_clinical.md) (Preprint, 2022)
 
 (2) [Towards developing NLP tools for extracting SBDH from Twitter](/projects/nlp_for_social_good_twitter.md) (Ongoing project)
-
-
 
 
 
