@@ -3,14 +3,14 @@ layout: project
 title: Towards developing NLP tools for extracting SBDH from Twitter 
 ---
 
-## Why SBDH on Twitter? 
+**(1) Why SBDH on Twitter?**
 
 - Openly available data, thus a good resource for public health surveillance. 
 - Several previous literature on applying NLP to health-related tweets. However, there is little prior work on identifying SBDH from general tweets. 
 
 ---------------------------
 
-## Current Procedures (updating)
+**(2) Current Procedures (updating)**
 
 **from the last work...**
 

@@ -4,7 +4,7 @@ title: Machine Learning Models for Depressive Disorder Risk Prediction
 subtitle: Undergraduate Honors Thesis (The College of Wooster, 2021)
 ---
 
-## Title: “Statistical and Machine Learning Approaches to Depressive Disorders among adults in the U.S. - From Factor Discovery to Prediction Evaluation”
+**Title: “Statistical and Machine Learning Approaches to Depressive Disorders among adults in the U.S. - From Factor Discovery to Prediction Evaluation”**
 
 According to the National Institutes of Mental Health (NIMH), depressive disorders (or major depression) are considered one of the most common and serious health risks in the United States. Our study focuses on extracting non-medical factors of depressive disorders diagnosis, such as overall health states, health risk behaviors, demography, and healthcare access, using the Behavioral Risk Factor Surveillance System (BRFSS) data set collected by the Centers for Disease Control and Prevention (CDC) in 2018.
 
