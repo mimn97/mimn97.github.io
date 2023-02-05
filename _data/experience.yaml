@@ -1,8 +1,8 @@
 experiences:
 - place: "Microsoft"
-  time: "Jan 2023 - Present"
+  time: "Jan 2023 - Feb 2023"
   title: "Micro-intenship"
-  subtitle: "Data Scientist Intern"
+  subtitle: "Data Scientist Intern (MAIDAP)"
   category: "work"
 
 - place: "BioNLP Lab"
@@ -20,7 +20,7 @@ experiences:
 - place: "UMass Amherst"
   time: "Aug. 2021 - Present"
   title: "M.S. in Computer Science"
-  subtitle: "BioNLP Lab"
+  subtitle: "Working at BioNLP Lab (Aug 2021 - Present)"
   category: "school"
 
 - place: "The College of Wooster"
