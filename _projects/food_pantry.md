@@ -10,6 +10,6 @@ subtitle: “Evaluating Geographical Accessibility of Food Pantries and Banks in
 
 ----------------------------
 
-*Preprint in preparation for Nature Food*
+**Submitted to Nature Food**
 
 [**Visuals created by by Tableau Public**](https://sites.google.com/view/umassbionlp-public-health/projects/food-pantry) (* requires Google credential to visit the website.)

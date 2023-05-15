@@ -1,4 +1,4 @@
-# Minhwa Lee's Website (Based on Martin Saveski's template)
+# Minhwa Lee's Website (Based on Prof. Martin Saveski's template)
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
