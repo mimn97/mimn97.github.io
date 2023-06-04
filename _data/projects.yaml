@@ -13,7 +13,7 @@ projects:
 
   - title: "Machine Learning Models for Depressive Disorders"
     subtitle: "Undergraduate Honors Thesis (2020-2021)"
-    thumbnail: "assets/projects/wooster_is/thumbnail.png"
+    thumbnail: "assets/projects/wooster_is/thumbnail_1.png"
     url: "projects/wooster_is.html"
     selected: y
 
@@ -21,7 +21,7 @@ projects:
     subtitle: "SemEval 2023 Task 1 Challenge (2023)"
     thumbnail: "assets/projects/vwsd/thumbnail.png"
     url: "projects/vwsd.html"
-    selected: n
+    selected: y
 
   - title: "Sequential Sentence Classification for Longer Documents"
     subtitle: "Research with Bloomberg LP (2022)"

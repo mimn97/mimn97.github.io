@@ -20,7 +20,7 @@ Here are main projects related to the topic:
 
 (1) ["Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"](/projects/nlp_for_social_good_clinical.html) (Preprint, 2022)
 
-(2) [Towards developing NLP tools for extracting SBDH from Twitter](/projects/nlp_for_social_good_twitter.html) (Ongoing project)
+(2) "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data" (Working Paper, 2023)
 
 
 

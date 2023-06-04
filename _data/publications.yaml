@@ -7,8 +7,9 @@ papers:
 
   - title: "Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation Incorporating Gloss Information"
     authors: "Sunjae Kwon, Rishabh Garodia, <b>Minhwa Lee</b>, Zhichao Yang, Hong Yu"
-    venue: "Accepted at ACL'23: The 61st Annual Meeting of the Association for Computational Linguistics. 2023."
+    venue: "The 61st Annual Meeting of the Association for Computational Linguistics (ACL). 2023."
     paper_pdf: "https://arxiv.org/pdf/2305.01788.pdf"
+    code: "https://github.com/soon91jae/UVWSD"
     selected: y
 
   - title: "Statistical and Machine Learning Approaches to Depressive Disorders Among Adults in the United States: From Factor Discovery to Prediction Evaluation"
@@ -20,8 +21,13 @@ papers:
 
   - title: "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data"
     authors: "Vijeta Deshpande, <b>Minhwa Lee</b>, Zonghai Yao, Jason B. Gibbons, Hong Yu"
-    venue: "To be submitted to JMIR Public Health and Surveillance"
+    venue: "Working Paper for JMIR Public Health and Surveillance, 2023"
     selected: y
+
+  - title: "Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"
+    authors: "<b>Minhwa Lee</b>, Zonghai Yao, Zhangqi Duan, Avijit Mitra, Hong Yu"
+    venue: "Preprint (Extended Abstract), 2022."
+    selected: n
 
   # - title: "Perspective-taking to Reduce Affective Polarization on Social Media"
   #   authors: "<b>Martin Saveski<sup>‡</sup></b>, Nabeel Gillani<sup>‡</sup>, Ann Yuan, Prashanth Vijayaraghavan, Deb Roy"
