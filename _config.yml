@@ -1,17 +1,8 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
+google_analytics: G-1N8ZY2SVV4
 
 collections:
   projects:
     output: true
-
-google_analytics: G-1N8ZY2SVV4
-
-# # Analytics
-# analytics:
-#   provider               : "google-gtag" 
-#                           # false (default), "google", "google-universal", "google-gtag", "custom"
-#   google:
-#     tracking_id          : "G-1N8ZY2SVV4"
-#     anonymize_ip         : # true, false (default)
