@@ -1,4 +1,10 @@
 experiences:
+- place: "University of Minnesota - Twin Cities"
+  time: "July 2023 (Expected) - Current"
+  title: "Research Intern"
+  subtitle: "Full-time Research Intern @ Minnesota NLP <br/> (advised by Prof. Dongyeop Kang)"
+  category: "work"
+
 - place: "Microsoft"
   time: "Jan 2023 - Feb 2023"
   title: "Micro-intenship"
@@ -8,7 +14,7 @@ experiences:
 - place: "BioNLP Lab"
   time: "May 2022 - Aug 2022"
   title: "Summer Research Assistant"
-  subtitle: "Continuing Research at BioNLP lab"
+  subtitle: "Continued Research at BioNLP lab"
   category: "work"
 
 - place: "Bloomberg LP"
@@ -20,11 +26,11 @@ experiences:
 - place: "UMass Amherst"
   time: "Aug. 2021 - May 2023"
   title: "M.S. in Computer Science"
-  subtitle: "Working at BioNLP Lab (Aug 2021 - May 2023)"
+  subtitle: "BioNLP Lab (Aug 2021 - May 2023)"
   category: "school"
 
 - place: "The College of Wooster"
   time: "Aug. 2017 - May. 2021"
-  title: "B.A. Student"
+  title: "B.A. in Computer Science; B.A. in Mathematics"
   subtitle: "Computer Science, Mathematics (Double Major) <br/> Magna Cum Laude"
   category: "school"
