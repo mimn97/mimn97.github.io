@@ -1,5 +1,18 @@
 papers:
 
+  - title: "How Far Can We Extract Diverse Perspectives from Large Language Models? Criteria-Based Diversity Prompting!"
+    authors: "Shirley Anugrah Hayati, <b>Minhwa Lee</b>, Dheeraj Rajagopal, Dongyeop Kang"
+    venue: "Preprint (2023)"
+    paper_pdf: "https://arxiv.org/pdf/2311.09799.pdf"
+    selected: y
+
+  - title: "Benchmarking Cognitive Biases in Large Language Models as Evaluators"
+    authors: "Ryan Koo, <b>Minhwa Lee</b>, Vipul Raheja, Jong Inn Park, Zae Myung Kim, Dongyeop Kang"
+    venue: "Under Review by ICLR 2024"
+    paper_pdf: "https://arxiv.org/pdf/2309.17012.pdf"
+    data: "https://minnesotanlp.github.io/cobbler-project-page/"
+    selected: y
+
   - title: "Socio-geographic Disparities... [Full Title to be disclosed after acceptance]"
     authors: "<b>Minhwa Lee</b>, Huan-Yuan Chen, Zonghai Yao, Jason B. Gibbons, Yan Wang, Katherine L. Tucker, Hong Yu"
     venue: "Under Formal Review by Nature Food, 2023."
