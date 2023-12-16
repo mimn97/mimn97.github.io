@@ -13,10 +13,10 @@ papers:
     data: "https://minnesotanlp.github.io/cobbler-project-page/"
     selected: y
 
-  - title: "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data"
-    authors: "Vijeta Deshpande, <b>Minhwa Lee</b>, Zonghai Yao, Zihao Zhang, Jason B. Gibbons, Hong Yu"
-    venue: "Under Review by LREC-COLING 2024"
-    selected: y
+  # - title: "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data"
+  #   authors: "Vijeta Deshpande, <b>Minhwa Lee</b>, Zonghai Yao, Zihao Zhang, Jason B. Gibbons, Hong Yu"
+  #   venue: "Under Review by LREC-COLING 2024"
+  #   selected: n
 
   - title: "Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation Incorporating Gloss Information"
     authors: "Sunjae Kwon, Rishabh Garodia, <b>Minhwa Lee</b>, Zhichao Yang, Hong Yu"
