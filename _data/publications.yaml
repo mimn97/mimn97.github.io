@@ -1,8 +1,14 @@
 papers:
 
+  - title: "Human-AI Collaborative Taxonomy Construction: A Case Study of Profession-specific Writing Assistants"
+    authors: "<b>Minhwa Lee</b>, Zae Myung Kim, Vivek A. Khetan, Dongyeop Kang"
+    venue: "To Appear at The Third In2Writing Workshop at CHI 2024"
+    selected: y
+
   - title: "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data"
     authors: "Vijeta Deshpande, <b>Minhwa Lee</b>, Zonghai Yao, Zihao Zhang, Jason B. Gibbons, Hong Yu"
     venue: "To Appear at LREC-COLING 2024"
+    paper_pdf: "https://arxiv.org/abs/2402.13452"
     selected: y
 
   - title: "Under the Surface: Tracking the Artifactuality of LLM-Generated Data"
