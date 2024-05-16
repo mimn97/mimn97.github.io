@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Benchmarking Cognitive Biases in Large Language Models as Evaluators"
+    authors: "Ryan Koo, <b>Minhwa Lee</b>, Vipul Raheja, Jong Inn Park, Zae Myung Kim, Dongyeop Kang"
+    venue: "To Appear at Findings of ACL 2024"
+    paper_pdf: "https://arxiv.org/pdf/2309.17012.pdf"
+    data: "https://minnesotanlp.github.io/cobbler-project-page/"
+    selected: y
+
   - title: "Human-AI Collaborative Taxonomy Construction: A Case Study of Profession-specific Writing Assistants"
     authors: "<b>Minhwa Lee</b>, Zae Myung Kim, Vivek A. Khetan, Dongyeop Kang"
     venue: "To Appear at The Third In2Writing Workshop at CHI 2024"
@@ -20,19 +27,16 @@ papers:
     code: "https://github.com/minnesotanlp/artifacts-of-llmgendata"
     selected: y
 
+  - title: "Socioeconomic and Geographic Disparities... [Full Title to be disclosed after acceptance]"
+    authors: "<b>Minhwa Lee</b><sup>‡</sup>, Yifan Zhang<sup>‡</sup>, Jason B. Gibbons, Huan-Yuan Chen, Zonghai Yao, Yan Wang, Feiyun Ouyang, David Levy, Katherine L. Tucker, Hong Yu"
+    venue: "Under Review by Nature Food, 2024"
+    selected: n
+
   - title: "How Far Can We Extract Diverse Perspectives from Large Language Models? Criteria-Based Diversity Prompting!"
     authors: "Shirley Anugrah Hayati, <b>Minhwa Lee</b>, Dheeraj Rajagopal, Dongyeop Kang"
     venue: "Preprint (2023)"
     paper_pdf: "https://arxiv.org/pdf/2311.09799.pdf"
     selected: y
-
-  - title: "Benchmarking Cognitive Biases in Large Language Models as Evaluators"
-    authors: "Ryan Koo, <b>Minhwa Lee</b>, Vipul Raheja, Jong Inn Park, Zae Myung Kim, Dongyeop Kang"
-    venue: "Preprint (2023)"
-    paper_pdf: "https://arxiv.org/pdf/2309.17012.pdf"
-    data: "https://minnesotanlp.github.io/cobbler-project-page/"
-    selected: y
-
 
   - title: "Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation Incorporating Gloss Information"
     authors: "Sunjae Kwon, Rishabh Garodia, <b>Minhwa Lee</b>, Zhichao Yang, Hong Yu"
@@ -41,11 +45,6 @@ papers:
     code: "https://github.com/soon91jae/UVWSD"
     selected: y
 
-  - title: "Socio-geographic Disparities... [Full Title to be disclosed after acceptance]"
-    authors: "<b>Minhwa Lee</b><sup>‡</sup>, Yifan Zhang<sup>‡</sup>, Huan-Yuan Chen, Zonghai Yao, Jason B. Gibbons, Yan Wang, Katherine L. Tucker, Hong Yu"
-    venue: "Under Formal Review by Nature Food, 2023."
-    selected: n
-
   - title: "Statistical and Machine Learning Approaches to Depressive Disorders Among Adults in the United States: From Factor Discovery to Prediction Evaluation"
     authors: "<b>Minhwa Lee</b>"
     venue: "Honors Thesis at The College of Wooster, 2021."
@@ -53,10 +52,10 @@ papers:
     poster: "/assets/publications/2021_IS/Lee_MAA.pdf"
     selected: n
 
-  - title: "Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"
-    authors: "<b>Minhwa Lee</b>, Zonghai Yao, Zhangqi Duan, Avijit Mitra, Hong Yu"
-    venue: "Preprint (Extended Abstract), 2022."
-    selected: n
+  # - title: "Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"
+  #   authors: "<b>Minhwa Lee</b>, Zonghai Yao, Zhangqi Duan, Avijit Mitra, Hong Yu"
+  #   venue: "Preprint (Extended Abstract), 2022."
+  #   selected: n
 
   # - title: "Perspective-taking to Reduce Affective Polarization on Social Media"
   #   authors: "<b>Martin Saveski<sup>‡</sup></b>, Nabeel Gillani<sup>‡</sup>, Ann Yuan, Prashanth Vijayaraghavan, Deb Roy"
