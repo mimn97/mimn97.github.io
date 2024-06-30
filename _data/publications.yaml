@@ -42,7 +42,7 @@ papers:
 
   - title: "Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation Incorporating Gloss Information"
     authors: "Sunjae Kwon, Rishabh Garodia, <b>Minhwa Lee</b>, Zhichao Yang, Hong Yu"
-    venue: "The 61st Annual Meeting of the Association for Computational Linguistics (ACL). 2023."
+    venue: "ACL 2023"
     paper_pdf: "https://arxiv.org/pdf/2305.01788.pdf"
     code: "https://github.com/soon91jae/UVWSD"
     selected: y
