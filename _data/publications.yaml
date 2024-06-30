@@ -16,7 +16,7 @@ papers:
 
   - title: "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data"
     authors: "Vijeta Deshpande, <b>Minhwa Lee</b>, Zonghai Yao, Zihao Zhang, Jason B. Gibbons, Hong Yu"
-    venue: "To Appear at LREC-COLING 2024"
+    venue: "LREC-COLING 2024"
     paper_pdf: "https://arxiv.org/abs/2402.13452"
     selected: y
 
