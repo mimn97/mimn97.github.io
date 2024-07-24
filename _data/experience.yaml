@@ -1,6 +1,12 @@
 experiences:
+- place: "University of Massachusetts Lowell"
+  time: "August 2024 - Current"
+  title: "Research Staff at University of Massachusetts (Amherst - Lowell)"
+  subtitle: "Research Data Scientist @ UMass"
+  category: "work"
+
 - place: "University of Minnesota"
-  time: "July 2023 (Expected) - Current"
+  time: "July 2023 - July 2024"
   title: "Research Intern at UMN Twin Cities"
   subtitle: "Full-time Research Intern @ Minnesota NLP <br/> (advised by Prof. Dongyeop Kang)"
   category: "work"
