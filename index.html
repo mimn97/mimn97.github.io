@@ -157,8 +157,6 @@ title: Home
           </p>
           <p>{{ paper.authors }}</p>
           <p><b style="color:blue"><i>{{ paper.venue }}</i></b></p>
-          <div class="paper-buttons">
-          </div>
         </div>
       {% endfor %}
     </div>
@@ -194,9 +192,7 @@ title: Home
         </p>
         <p>{{ paper.authors }}</p>
         <p><b style="color:blue"><i>{{ paper.venue }}</i></b></p>
-        <div class="paper-buttons">
-        </div>
-        </div>
+      </div>
       {% endfor %}
     </div>
 
@@ -240,47 +236,32 @@ title: Home
 
     <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-            <div class="paper">
-              <p class="title"><b>{{ paper.title }}</b>
+          <div class="paper">
+            <p class="title"><b>{{ paper.title }}</b>
               {% if paper.paper_pdf %}
-                <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+                <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
               {% endif %}
-    
               {% if paper.slides %}
                 <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
               {% endif %}
-    
               {% if paper.poster %}
                 <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
               {% endif %}
-    
               {% if paper.video %}
                 <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
               {% endif %}
-    
               {% if paper.code %}
                 <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
               {% endif %}
-    
-              {% if paper.data %}
-                <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
-              {% endif %}
-              </p>
-              <p>{{ paper.authors }}</p>
-              <p><i>{{ paper.venue }}</i></p>
-              <div class="paper-buttons">
-              </div>
             </p>
-          <p>{{ paper.authors }}</p>
-          <p><b style="color:blue"><i>{{ paper.venue }}</i></b></p>
-           <div class="paper-buttons">
+            <p>{{ paper.authors }}</p>
+            <p><i>{{ paper.venue }}</i></p>
+             <div class="paper-buttons">
+            </div>
           </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
     </div>
-  </div>
+  <!-- </div> -->
 </div>
 
 <!-- ========== PROJECTS ==========  -->
