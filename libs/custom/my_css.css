@@ -14,19 +14,20 @@ h4 {
   font-size: 22px;
   margin-top: 5px; }
 .paper {
-  margin-bottom: 20px }
+  margin-bottom: 20px;
+  line-height: 1.2; }
 .paper .title {
   /*text-transform: uppercase; */}
 .paper p {
   margin-bottom: 2px }
 .paper-buttons {
-  margin-top: 5px }
+  margin-top: 2px }
 .paper .button {
   display: inline-block;
   height: 25px;
-  padding: 0 25px;
+  padding: 0 5px;
   font-weight: 100;
-  line-height: 25px;
+  line-height: 20px;
   text-transform: none; }
 .section-header {
   text-transform: uppercase;
