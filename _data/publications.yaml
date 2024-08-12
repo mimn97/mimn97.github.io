@@ -5,6 +5,7 @@ papers:
     venue: "Findings of ACL 2024"
     paper_pdf: "https://arxiv.org/pdf/2309.17012.pdf"
     data: "https://minnesotanlp.github.io/cobbler-project-page/"
+    year: "2024"
     selected: y
 
   - title: "Human-AI Collaborative Taxonomy Construction: A Case Study of Profession-specific Writing Assistants"
@@ -12,32 +13,37 @@ papers:
     venue: "The Third In2Writing Workshop at CHI 2024"
     paper_pdf: "https://arxiv.org/abs/2406.18675"
     code: "https://github.com/minnesotanlp/co-taxonomy"
+    year: "2024"
     selected: y
 
   - title: "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data"
     authors: "Vijeta Deshpande, <b>Minhwa Lee</b>, Zonghai Yao, Zihao Zhang, Jason B. Gibbons, Hong Yu"
     venue: "LREC-COLING 2024"
     paper_pdf: "https://arxiv.org/abs/2402.13452"
+    year: "2024"
     selected: y
 
   - title: "Under the Surface: Tracking the Artifactuality of LLM-Generated Data"
     authors: "Debarati Das<sup>‡</sup>, Karin De Langis<sup>‡</sup>, Anna Martin<sup>‡</sup>, Jaehyung Kim<sup>‡</sup>, <b>Minhwa Lee</b><sup>‡</sup>, Zae Myung Kim<sup>‡</sup>, 
     Shirley Hayati, Risako Owan, Bin Hu, Ritik Parkar, Ryan Koo, Jonginn Park, Aahan Tyagi, Libby Ferland, Sanjali Roy, Vincent Liu, Dongyeop Kang"
-    venue: "Preprint (2024)"
+    venue: "Under Review by Computational Linguistics"
     paper_pdf: "https://arxiv.org/pdf/2401.14698.pdf"
     data: "https://huggingface.co/datasets/minnesotanlp/LLM-Artifacts"
     code: "https://github.com/minnesotanlp/artifacts-of-llmgendata"
+    year: "2024"
     selected: y
 
   - title: "Socioeconomic and Geographic Disparities... [Full Title to be disclosed after acceptance]"
     authors: "<b>Minhwa Lee</b><sup>‡</sup>, Yifan Zhang<sup>‡</sup>, Jason B. Gibbons, Huan-Yuan Chen, Zonghai Yao, Yan Wang, Feiyun Ouyang, David Levy, Katherine L. Tucker, Hong Yu"
-    venue: "Under Review by Nature Food, 2024"
+    venue: "Under Review by Nature Scientific Reports"
+    year: "2024"
     selected: n
 
-  - title: "How Far Can We Extract Diverse Perspectives from Large Language Models? Criteria-Based Diversity Prompting!"
+  - title: "How Far Can We Extract Diverse Perspectives from Large Language Models?"
     authors: "Shirley Anugrah Hayati, <b>Minhwa Lee</b>, Dheeraj Rajagopal, Dongyeop Kang"
-    venue: "Preprint (2023)"
+    venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2311.09799.pdf"
+    year: "2023"
     selected: y
 
   - title: "Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation Incorporating Gloss Information"
@@ -45,6 +51,7 @@ papers:
     venue: "ACL 2023"
     paper_pdf: "https://arxiv.org/pdf/2305.01788.pdf"
     code: "https://github.com/soon91jae/UVWSD"
+    year: "2023"
     selected: y
 
   - title: "Statistical and Machine Learning Approaches to Depressive Disorders Among Adults in the United States: From Factor Discovery to Prediction Evaluation"
@@ -52,6 +59,7 @@ papers:
     venue: "Honors Thesis at The College of Wooster, 2021."
     paper_pdf: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8lhVY7sAAAAJ&citation_for_view=8lhVY7sAAAAJ:u-x6o8ySG0sC"
     poster: "/assets/publications/2021_IS/Lee_MAA.pdf"
+    year: "2021"
     selected: n
 
   # - title: "Can Pre-trained Models in the Clinical Domain Detect Social and Behavioral Determinants of Health from Tweets?"
