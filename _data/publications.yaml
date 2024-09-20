@@ -1,9 +1,15 @@
 papers:
+  - title: "How Far Can We Extract Diverse Perspectives from Large Language Models?"
+    authors: "Shirley Anugrah Hayati, <b>Minhwa Lee</b>, Dheeraj Rajagopal, Dongyeop Kang"
+    venue: "EMNLP 2024"
+    paper_pdf: "https://arxiv.org/abs/2406.18675"
+    year: "2024"
+    selected: y
 
   - title: "Benchmarking Cognitive Biases in Large Language Models as Evaluators"
     authors: "Ryan Koo, <b>Minhwa Lee</b>, Vipul Raheja, Jong Inn Park, Zae Myung Kim, Dongyeop Kang"
     venue: "Findings of ACL 2024"
-    paper_pdf: "https://arxiv.org/pdf/2309.17012.pdf"
+    paper_pdf: "https://arxiv.org/abs/2309.17012"
     data: "https://minnesotanlp.github.io/cobbler-project-page/"
     year: "2024"
     selected: y
@@ -16,7 +22,7 @@ papers:
     year: "2024"
     selected: y
 
-  - title: "Local Tweets to Local Health: A Mental Health Surveillance Framework Based on Twitter Data"
+  - title: "LocalTweets to LocalHealth: A Mental Health Surveillance Framework Based on Twitter Data"
     authors: "Vijeta Deshpande, <b>Minhwa Lee</b>, Zonghai Yao, Zihao Zhang, Jason B. Gibbons, Hong Yu"
     venue: "LREC-COLING 2024"
     paper_pdf: "https://arxiv.org/abs/2402.13452"
@@ -27,7 +33,7 @@ papers:
     authors: "Debarati Das<sup>‡</sup>, Karin De Langis<sup>‡</sup>, Anna Martin<sup>‡</sup>, Jaehyung Kim<sup>‡</sup>, <b>Minhwa Lee</b><sup>‡</sup>, Zae Myung Kim<sup>‡</sup>, 
     Shirley Hayati, Risako Owan, Bin Hu, Ritik Parkar, Ryan Koo, Jonginn Park, Aahan Tyagi, Libby Ferland, Sanjali Roy, Vincent Liu, Dongyeop Kang"
     venue: "Under Review by Computational Linguistics"
-    paper_pdf: "https://arxiv.org/pdf/2401.14698.pdf"
+    paper_pdf: "https://arxiv.org/abs/2401.14698"
     data: "https://huggingface.co/datasets/minnesotanlp/LLM-Artifacts"
     code: "https://github.com/minnesotanlp/artifacts-of-llmgendata"
     year: "2024"
@@ -38,13 +44,6 @@ papers:
     venue: "Under Review by Nature Scientific Reports"
     year: "2024"
     selected: n
-
-  - title: "How Far Can We Extract Diverse Perspectives from Large Language Models?"
-    authors: "Shirley Anugrah Hayati, <b>Minhwa Lee</b>, Dheeraj Rajagopal, Dongyeop Kang"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/pdf/2311.09799.pdf"
-    year: "2023"
-    selected: y
 
   - title: "Vision Meets Definitions: Unsupervised Visual Word Sense Disambiguation Incorporating Gloss Information"
     authors: "Sunjae Kwon, Rishabh Garodia, <b>Minhwa Lee</b>, Zhichao Yang, Hong Yu"
