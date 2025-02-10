@@ -178,7 +178,7 @@ title: Home
         </div>
       {% endfor %}
     </div>    
-    <div class="tab-pane active" id="papers-2024">
+    <div class="tab-pane" id="papers-2024">
       {% assign papers_2024 = site.data.publications.papers | where: "year", "2024" %}
       {% for paper in papers_2024 %}
         <div class="paper">
