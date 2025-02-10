@@ -11,11 +11,9 @@ title: Home
   <!-- From 2023-2024, I served as a visting researcher at University of Minnesota Twin Cities, where I was mentored by <a href="https://minnesotanlp.github.io/">Prof. Dongyeop Kang</a>. -->
   </p>
 
-  <br>
-
   <!-- <h5>Research Areas</h5> -->
   <p style="text-align: justify;">
-  My research is centered on developing and evaluating AI-powered systems that aim to improve healthcare of marginalized communities, using <b style="color:rgb(49, 123, 119)">natural language processing (NLP)</b> and <b style="color:rgb(49, 123, 119)">human-AI interaction (HAI)</b> strategies. Also, my research focuses on identifying predictors of adverse health outcomes (e.g., social determinants of health) from <b style="color:rgb(49, 123, 119)">computational epidemiology</b> perspectives.
+  <!-- My research is centered on developing and evaluating AI-powered systems that aim to improve healthcare of marginalized communities, using <b style="color:rgb(49, 123, 119)">natural language processing (NLP)</b> and <b style="color:rgb(49, 123, 119)">human-AI interaction (HAI)</b> strategies. Also, my research focuses on identifying predictors of adverse health outcomes (e.g., social determinants of health) from <b style="color:rgb(49, 123, 119)">computational epidemiology</b> perspectives. -->
   <!-- <ul>
     <li><b style="color:chocolate">Natural Language Processing for Tackling Social Disparity</b></li>
     <li><b style="color:rgb(49, 123, 119)"> Human-AI Collaboration</b></li>
@@ -27,7 +25,9 @@ title: Home
   Also, I worked on socially-aware natural language processing (NLP) technologies that better <b>aligned with human reasoning</b> and promoted <b>diversity and equity</b>.  -->
   </p>
 
-  <p> <b>[Updated Oct 2024]</b> Here is my full <a href="https://drive.google.com/file/d/1o0iCCQssLTOnCAso5i_tKneGu48uAwDj/view?usp=sharing">CV</a>.</p>
+  <p>Currently looking for full-time data scientist or applied scientist positions with NLP specialization!</p>
+
+  <p> <b>[Updated Jan 2025]</b> Here is my full <a href="https://drive.google.com/file/d/1o0iCCQssLTOnCAso5i_tKneGu48uAwDj/view?usp=sharing">CV</a>.</p>
 
   <!-- <p>Here are some keywords: </p>
   <ul>
@@ -81,6 +81,10 @@ title: Home
   <div style="height:300px; width:auto; border:1px solid #ccc; overflow:auto;">
     <ul>
       <li>
+        <b style="color:cadetblue">[Feb. 2025]</b> &nbsp&nbsp
+        A new <a href="https://arxiv.org/abs/2502.02904">preprint</a> is out! We study the cognitive process of scholarly writing as a basis of future AI writing assistant development! </b>
+      </li>
+      <li>
         <b style="color:cadetblue">[Sep. 2024]</b> &nbsp&nbsp
         Our <a href="https://arxiv.org/abs/2311.09799">preprint </a> about diversity extraction from LLMs is accepted to <b>EMNLP 2024</b>!
       </li>
@@ -132,13 +136,48 @@ title: Home
   </p>
 
   <ul class="tab-nav">
-    <li><div class="button active" data-ref="#papers-2024">2024</div></li>
+    <li><div class="button active" data-ref="#papers-2025">2025</div></li>
+    <li><div class="button" data-ref="#papers-2024">2024</div></li>
     <li><div class="button" data-ref="#papers-2023">2023</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li>
   </ul>
 
-  <!-- 2024 -->
+  <!-- 2025 -->
   <div class="tab-content">
+    <div class="tab-pane active" id="papers-2025">
+      {% assign papers_2025 = site.data.publications.papers | where: "year", "2025" %}
+      {% for paper in papers_2025 %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b>
+          {% if paper.paper_pdf %}
+            <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+          {% endif %}
+
+          {% if paper.slides %}
+            <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+          {% endif %}
+
+          {% if paper.poster %}
+            <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+          {% endif %}
+
+          {% if paper.video %}
+            <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+          {% endif %}
+
+          {% if paper.code %}
+            <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+          {% endif %}
+
+          {% if paper.data %}
+            <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+          {% endif %}
+          </p>
+          <p>{{ paper.authors }}</p>
+          <p><b style="color:blue"><i>{{ paper.venue }}</i></b></p>
+        </div>
+      {% endfor %}
+    </div>    
     <div class="tab-pane active" id="papers-2024">
       {% assign papers_2024 = site.data.publications.papers | where: "year", "2024" %}
       {% for paper in papers_2024 %}
