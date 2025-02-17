@@ -1,7 +1,7 @@
 papers:
   - title: "ScholaWrite: A Dataset of End-to-End Scholarly Writing Process"
     authors: "Linghe Wang*, <b>Minhwa Lee</b>*, Ross Volkov, Luan Tuyen Chau, Dongyeop Kang"
-    venue: "Preprint (arXiv)"
+    venue: "Preprint (arXiv), 2025."
     paper_pdf: "https://arxiv.org/abs/2502.02904"
     data: "https://huggingface.co/datasets/minnesotanlp/scholawrite"
     code: "https://minnesotanlp.github.io/scholawrite/"
@@ -41,7 +41,7 @@ papers:
   - title: "Under the Surface: Tracking the Artifactuality of LLM-Generated Data"
     authors: "Debarati Das<sup>‡</sup>, Karin De Langis<sup>‡</sup>, Anna Martin<sup>‡</sup>, Jaehyung Kim<sup>‡</sup>, <b>Minhwa Lee</b><sup>‡</sup>, Zae Myung Kim<sup>‡</sup>, 
     Shirley Hayati, Risako Owan, Bin Hu, Ritik Parkar, Ryan Koo, Jonginn Park, Aahan Tyagi, Libby Ferland, Sanjali Roy, Vincent Liu, Dongyeop Kang"
-    venue: "Preprint (arXiv)"
+    venue: "Preprint (arXiv), 2024"
     paper_pdf: "https://arxiv.org/abs/2401.14698"
     data: "https://huggingface.co/datasets/minnesotanlp/LLM-Artifacts"
     code: "https://github.com/minnesotanlp/artifacts-of-llmgendata"
