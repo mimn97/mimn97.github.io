@@ -1,6 +1,6 @@
 papers:
   - title: "ScholaWrite: A Dataset of End-to-End Scholarly Writing Process"
-    authors: "Linghe Wang*, <b>Minhwa Lee</b>*, Ross Volkov, Luan Tuyen Chau, Dongyeop Kang"
+    authors: "Linghe Wang<sup>‡</sup>, <b>Minhwa Lee</b><sup>‡</sup>, Ross Volkov, Luan Tuyen Chau, Dongyeop Kang"
     venue: "Preprint (arXiv), 2025."
     paper_pdf: "https://arxiv.org/abs/2502.02904"
     data: "https://huggingface.co/datasets/minnesotanlp/scholawrite"
